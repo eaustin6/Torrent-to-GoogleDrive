@@ -10,7 +10,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to download Torrent to
 
 ## ⚙️ How to Use ? 
 <h3>🗂️Download Torrent to My Drive</h3>
-<p>For Shared Drive:<a href="#download-torrent-to-shared-drives"> Read Here</a></p>
+<p>For Shared Drive:<a href="https://github.com/TheCaduceus/Torrent-to-GoogleDrive#download-torrent-to-shared-drives"> Read Here</a></p>
 <h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Torrent-to-GoogleDrive/blob/main/Torrent%20to%20Google%20Drive.ipynb">Open Code</a> </h4>
 <h4> 2.It is too Simple! Download the Setup file and Environment Config files from the code as shown in the Image.</h4>
 <img src="https://github.com/TheCaduceus/Torrent-to-GoogleDrive/blob/main/Img/20.png">
