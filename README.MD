@@ -9,8 +9,6 @@ A Simple and User-Friendly Google Collab Notebook with UI to download Torrent to
 <h4>5.Added Shared Drives Support!😉</h4>
 
 ## ⚙️ How to Use ? 
-<h3>🗂️Download Torrent to My Drive</h3>
-<p>For Shared Drive:<a href="https://github.com/TheCaduceus/Torrent-to-GoogleDrive#download-torrent-to-shared-drives"> Read Here</a></p>
 <h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Torrent-to-GoogleDrive/blob/main/Torrent%20to%20Google%20Drive.ipynb">Open Code</a> </h4>
 <h4> 2.It is too Simple! Download the Setup file and Environment Config files from the code as shown in the Image.</h4>
 <img src="https://github.com/TheCaduceus/Torrent-to-GoogleDrive/blob/main/Img/20.png">
@@ -20,6 +18,8 @@ A Simple and User-Friendly Google Collab Notebook with UI to download Torrent to
 <img src="https://github.com/TheCaduceus/Torrent-to-GoogleDrive/blob/main/Img/22.png">
 <h4> 5.If you want then you can check that from which speed Google is going to download your Torrent Data as shown in the Image.</a></h4>
 <img src="https://github.com/TheCaduceus/Torrent-to-GoogleDrive/blob/main/Img/23.png">
+<h3>🗂️Download Torrent to My Drive</h3>
+<p>For Shared Drive:<a href="https://github.com/TheCaduceus/Torrent-to-GoogleDrive#download-torrent-to-shared-drives"> Read Here</a></p>
 <h4> 6.To download Torrent in My Drive then choose anyone method provided under "Torrent to My Drive" that is Upload (.Torrent) File or by "Magnet Link" as shown in the Image.</h4>
 <img src="https://github.com/TheCaduceus/Torrent-to-GoogleDrive/blob/main/Img/24.png">
 <img src="https://github.com/TheCaduceus/Torrent-to-GoogleDrive/blob/main/Img/25.png">
